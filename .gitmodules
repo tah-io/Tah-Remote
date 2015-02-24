@@ -1,0 +1,3 @@
+[submodule "Tah-Remote-iOS"]
+	path = Tah-Remote-iOS
+	url = git@github.com:tah-io/Tah-Remote-iOS.git
